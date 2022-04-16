@@ -1,5 +1,3 @@
-# Body & Hands
-
 ## +Bathing Culture Mind and Body Wash - $1.75/oz
 
 Concentrated, 1:1 Dilution Ratio
@@ -35,8 +33,3 @@ Distilled Water, Saponified oils of the following: Organic Cocos Nuficera Oil, O
 ## Mango Charcoal Face and Body Wash
 
 Water, Cocamidopropyl Betaine, Sodium CocoGlucoside Tartrate, Disodium Coco-Glucoside Citrate, Glycerin, DMAE Bitartrate, Organic Alcohol Extracts of Rooibos/Bilberry/Sugar Cane/Cranberry/Lemon/Sugar/Maple/Orange, Lavender Water, Chamomile Water, Hydrolyzed Wheat Protein, Activated Charcoal, Tea Tree Essential Oil, ProVitamin B5, Natural Fragrance, Xanthan Gum, Phenoxyethanol, Tetrasodium Glutamate Diacetate
-
-## Baby Hair and Body Wash
-
-Organic Aloe Leaf Juice, Sodium Lauryl Sulfloacetate, Cocamidopropyl Betaine, Disodium Laureth Sulfosuccinate, Glycerin, Phenoxyethanol, Organic Lavender Flower Water, Roman Chamomile Flower Water, Organic Jojoba Seed Oil, Rosehip Seed Oil, Hydrolyzed Wheat Protein, Provitamin B5, Vitamin E, Sunflower Seed Oil, German Chamomile Flower Oil, Roman Chamomile Flower Oil, Lavender Flower Oil, Tetrasodium Glutamate Diacetate
-
