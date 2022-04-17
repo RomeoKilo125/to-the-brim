@@ -1,5 +1,3 @@
-# Face
-
 ## Calming Facial Toner
 
 Organic Aloe Leaf Juice, Orange Blossom Water, Glycerin, Phenoxyethanol, Organic Oatstraw Extract, Organic White Willow Bark Extract, Tea Tree Leaf Oil, Polysorbate 20, Organic Alcohol, Tetrasodium Glutamate Diacetate

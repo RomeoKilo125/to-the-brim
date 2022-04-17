@@ -1,5 +1,3 @@
-# Home
-
 ## Fillaree Clean Dream All Purpose Cleaner
 
 Water, Organic Distilled Vinegar, Sodium Borate, Sodium Carbonate, Fillaree Dish Soap, Essential Oil Blend

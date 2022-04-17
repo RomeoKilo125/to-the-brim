@@ -1,5 +1,3 @@
-# Laundry
-
 ## Dropps-Clean Scent Laundry Pods
 
 1 pod= 1 load; 2 can be used for large loads/high capacity machines
