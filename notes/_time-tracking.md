@@ -8,3 +8,4 @@
 | 2022-03-05 | 11:30 | 12:15 | copy cleaning | .75 |
 | 2022-04-16 | 10:30 | 11:30 | copy sync | 1.00 |
 | 2022-04-17 | 15:15 | 16:30 | set up new product page | .75 |
+| 2022-04-26 | 18:30 | 20:00 | set up new product page | 1.5 / 2 |
