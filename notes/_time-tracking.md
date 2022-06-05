@@ -11,3 +11,4 @@
 | 2022-04-26 | 18:30 | 20:00 | set up new product page | .75 |
 | 2022-05-17 | 18:15 | 19:15 | meeting about new site | 1 |
 | 2022-05-27 | 21:45 | 22:15 | mock up color-blocked site | .5 |
+| 2022-06-05 | 08:00 | 09:00 | update in lieu of meeting | 1 |
