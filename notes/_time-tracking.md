@@ -13,4 +13,6 @@
 | 2022-05-27 | 21:45 | 22:15 | mock up color-blocked site | .5 |
 | 2022-06-05 | 08:00 | 09:00 | update in lieu of meeting | 1 |
 | 2022-07-16 | 08:00 | 08:30 | meeting | .5 |
-| 2022-07-17 | 14:00 | 15:30 | update site layout | 1.5 |
+| 2022-07-17 | 14:00 | 15:30 | update homepage layout | 1.5 |
+| 2022-07-18 | 09:40 | 10:20 | update other pages layout | .6 |
+| 2022-07-19 | 21:00 | 23:15 | redid update in production | 2.25 |
