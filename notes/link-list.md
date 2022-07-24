@@ -4,8 +4,8 @@
 [their inventory list](https://docs.google.com/spreadsheets/d/1pC1CMiUMQFDqSBnLp6J2ElVS_ZhESaF6uuFksIq0Q-A/edit#gid=573450432)
 [product photos](https://photos.app.goo.gl/q4mfMBi2TdKCh3Xv8)
 
-text color
-33362A
+text color: #33362A
 
-link color
-8AA636
+link color: #8AA636
+
+orangey brown: C06C15
