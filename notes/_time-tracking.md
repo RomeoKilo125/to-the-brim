@@ -16,3 +16,4 @@
 | 2022-07-17 | 14:00 | 15:30 | update homepage layout | 1.5 |
 | 2022-07-18 | 09:40 | 10:20 | update other pages layout | .6 |
 | 2022-07-19 | 21:00 | 23:15 | redid update in production | 2.25 |
+| 2022-07-23 | 22:10 | 22:16 | content update and slight rearrangement | .1 |
